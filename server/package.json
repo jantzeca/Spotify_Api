@@ -1,0 +1,21 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "Test Spotify API app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.15.4",
+    "nodemon": "^2.0.2",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  },
+  "author": "Chris",
+  "license": "MIT"
+}
